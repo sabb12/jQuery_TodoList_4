@@ -48,7 +48,7 @@
 
 ## Project Structure(프로젝트 구조)
 ```markdown
-jQuery_TodoList_3
+jQuery_TodoList_5
 ├── index.css
 ├── index.html
 ├── index.js
