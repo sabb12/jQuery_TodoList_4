@@ -4,7 +4,7 @@
 
 ## What I've learned(배운 점)
 ##### 1. [장점]: jQuery는 JavaScript의 라이브러리로, JavaScript의 기능을 더 편리하게 사용할 수 있게 해줌. 이를 사용하면 코드가 간결해지고, 작성해야 할 코드 양이 줄어듬.
-##### 3. [단점]: JavaScript는 브라우저에서 직접 실행되는 반면, jQuery는 추가 라이브러리 로딩을 필요로 하기 때문에, 속도면에서 JavaScript보다 상대적으로 느릴 수 있음.
+##### 2. [단점]: JavaScript는 브라우저에서 직접 실행되는 반면, jQuery는 추가 라이브러리 로딩을 필요로 하기 때문에, 속도면에서 JavaScript보다 상대적으로 느릴 수 있음.
 <br/>
 
 ## Key Feature(주요 기능)
