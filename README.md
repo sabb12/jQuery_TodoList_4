@@ -1,5 +1,5 @@
 ## Project Introduction(프로젝트 소개)
-##### ▪ JavaScript의 라이브러리인 jQuery로 만든 Todo List
+##### ▪ JavaScript의 라이브러리인 jQuery로 만든 To Do List
 <br/>
 
 ## What I've learned(배운 점)
